@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artistjosh
-- 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning OpenShift pipelines and want to do some Python programming with it.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 👀 I’m interested in c# and .Net programming.
+- 🌱 I’m currently working on AzDO pipelines.
+- 💞️ I’m not looking to collaborate right now.
 - 📫 How to reach me artistjoshmills@gmail.com
 
 <!---
